@@ -1,3 +1,8 @@
+# Faça um programa que leia algo pelo
+# teclado, mostre na tela o seu tipo de
+# dado e todas as informações possíveis
+# sobre ele.
+
 nome = input('Digite o seu nome completo: ')
 peso = input('Digite o seu peso: ')
 altura = input('Digite a sua altura: ')

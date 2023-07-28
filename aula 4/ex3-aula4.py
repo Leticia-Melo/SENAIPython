@@ -1,3 +1,6 @@
+# Crie um script Python que leia cinco notas de
+# um aluno, calcule e mostre sua média final.
+
 nota1 = float(input('Digite sua nota: '))
 nota2 = float(input('Digite sua nota: '))
 nota3 = float(input('Digite sua nota: '))

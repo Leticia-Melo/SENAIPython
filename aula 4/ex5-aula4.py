@@ -1,3 +1,6 @@
+# Escreva um programa que leia um valor inteiro
+# qualquer e mostre na tela a sua tabuada.
+
 num = int(input('Digite um número: '))
 
 s1 = num * 1

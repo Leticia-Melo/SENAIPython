@@ -1,3 +1,8 @@
+# Crie um script Python que recebe três inteiros
+# como entrada do teclado e escreva na tela a
+# média, a soma e o produto entre eles, usando
+# uma linha para cada resultado.
+
 num1 = float(input('Digite um número: '))
 num2 = float(input('Digite um número: '))
 num3 = float(input('Digite um número: '))

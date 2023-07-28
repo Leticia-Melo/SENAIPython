@@ -1,3 +1,5 @@
+# Crie um programa que faça o computador jogar JOKENPÔ com você.
+
 import random
 joke = input('Digite Pedra, Papel ou Tesoura:\n').lower()
 a = 'pedra', 'papel', 'tesoura'
